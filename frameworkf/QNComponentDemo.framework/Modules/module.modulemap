@@ -1,0 +1,6 @@
+framework module QNComponentDemo {
+  umbrella header "QNComponentDemo.h"
+
+  export *
+  module * { export * }
+}
